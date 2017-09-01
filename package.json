@@ -29,5 +29,8 @@
   "scripts": {
     "test": "./node_modules/karma/bin/karma start"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nyc": "^11.1.0"
+  }
 }
